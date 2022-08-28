@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         String s = "second";
         String str = "third";
 
+        String add = "add";
     }
 }
